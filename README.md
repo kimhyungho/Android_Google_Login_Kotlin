@@ -25,8 +25,9 @@ First Step
 
 5 (SHA-1은 Android Studio 우측 상단 gradle -> 앱이름 -> Task -> android -> signinReport 더블클릭 후 하단 Run 탭에서 확인 가능)
 
+<img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/signingReport.JPG">
 
-사용자 인증 정보 -> 사용자 인증 정보 만들기 -> OAuth 클라이언트 ID -> 애플리케이션 유형 -> 웹 애플리케이션, 이름 등록
+6 사용자 인증 정보 -> 사용자 인증 정보 만들기 -> OAuth 클라이언트 ID -> 애플리케이션 유형 -> 웹 애플리케이션, 이름 등록
 
 
 사용법
@@ -134,5 +135,6 @@ class LoginActivity : AppCompatActivity() {
 ScreenShots
 -----------
 <div>
+<img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/1.JPG">
 <img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/2.JPG">
 <div>

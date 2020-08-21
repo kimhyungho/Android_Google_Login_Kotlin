@@ -15,15 +15,15 @@ com.google.android.gms:play-services-auth:18.1.0
 
 First Step
 -----------
-공식 홈페이지 접속 후 프로젝트 생성
+1 공식 홈페이지 접속 후 프로젝트 생성
 
-API 및 서비스
+2 API 및 서비스
 
-OAuth 동의 화면 -> 앱 이름, 로고, 도메인등 지정 후 저장
+3 OAuth 동의 화면 -> 앱 이름, 로고, 도메인등 지정 후 저장
 
-사용자 인증 정보 -> 사용자 인증 정보 만들기 -> OAuth 클라이언트 ID -> 애플리케이션 유형 -> Android, 이름, 패키지 이름, SHA-1 인증서 등록
+4 사용자 인증 정보 -> 사용자 인증 정보 만들기 -> OAuth 클라이언트 ID -> 애플리케이션 유형 -> Android, 이름, 패키지 이름, SHA-1 인증서 등록
 
-(SHA-1은 Android Studio 우측 상단 gradle -> 앱이름 -> Task -> android -> signinReport 더블클릭 후 하단 Run 탭에서 확인 가능)
+5 (SHA-1은 Android Studio 우측 상단 gradle -> 앱이름 -> Task -> android -> signinReport 더블클릭 후 하단 Run 탭에서 확인 가능)
 
 
 사용자 인증 정보 -> 사용자 인증 정보 만들기 -> OAuth 클라이언트 ID -> 애플리케이션 유형 -> 웹 애플리케이션, 이름 등록

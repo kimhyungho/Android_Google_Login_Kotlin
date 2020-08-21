@@ -1,16 +1,17 @@
-Naver Login By Using Kotlin
+Google Login By Using Kotlin
 ============
-How to login/sign up to Naver Account
+How to login/sign up to Google Account
 
 Official Homepage
 -----------
 https://console.cloud.google.com/
 
+https://developers.google.com/identity/sign-in/android
+
 Version
 -----------
 com.google.android.gms:play-services-auth:18.1.0
 
-https://developers.google.com/identity/sign-in/android
 
 First Step
 -----------
@@ -133,6 +134,6 @@ class LoginActivity : AppCompatActivity() {
 ScreenShots
 -----------
 <div>
-<img whdth = "50" src = "https://github.com/kimhyungho/Naver_login_Kotlin/blob/master/naver_login_image/11.JPG">
-<img whdth = "50" src = "https://github.com/kimhyungho/Naver_login_Kotlin/blob/master/naver_login_image/2.JPG">
+<img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/1.JPG">
+<img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/2.JPG">
 <div>

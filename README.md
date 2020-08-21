@@ -134,6 +134,5 @@ class LoginActivity : AppCompatActivity() {
 ScreenShots
 -----------
 <div>
-<img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/1.JPG">
 <img whdth = "50" src = "https://github.com/kimhyungho/googlelogin/blob/master/google_login_image/2.JPG">
 <div>
